@@ -8,3 +8,13 @@
 .desc{
     text-align: center;
 }
+
+.lst{
+    margin: auto;
+    text-align: center; 
+    list-style-position: inside;
+}
+
+.pic{
+    text-align: center;
+}
