@@ -16,3 +16,9 @@
  color: brown;
 }
 
+.list{
+    margin: auto;
+    text-align: center; 
+    list-style-position: inside;
+    padding-left: (n)px;
+}
